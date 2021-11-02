@@ -1,5 +1,5 @@
 {
-    "name": "blomstra/noemail",
+    "name": "blomstra/no-email-notifications",
     "description": "Remove the email notification driver from Flarum",
     "keywords": [
         "flarum"
@@ -10,8 +10,8 @@
         "flarum/core": "^1.0.0"
     },
     "support": {
-        "issues": "https://github.com/blomstra/flarum-ext-noemail/issues",
-        "source": "https://github.com/blomstra/flarum-ext-noemail",
+        "issues": "https://github.com/blomstra/flarum-ext-no-email-notifications/issues",
+        "source": "https://github.com/blomstra/flarum-ext-no-email-notifications",
         "forum": "https://discuss.flarum.org/d/"},
     "homepage": "https://blomstra.net",
     "authors": [
@@ -28,7 +28,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "No Email",
+            "title": "No Email Notifications",
             "category": "feature",
             "icon": {
                 "name": "fas fa-inbox",
