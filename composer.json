@@ -1,0 +1,40 @@
+{
+    "name": "blomstra/noemail",
+    "description": "Remove the email notification driver from Flarum",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "support": {
+        "issues": "https://github.com/blomstra/flarum-ext-noemail/issues",
+        "source": "https://github.com/blomstra/flarum-ext-noemail",
+        "forum": "https://discuss.flarum.org/d/"},
+    "homepage": "https://blomstra.net",
+    "authors": [
+        {
+            "name": "IanM",
+            "email": "ian@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\NoEmail\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "No Email",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-inbox",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}
