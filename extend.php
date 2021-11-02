@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of blomstra/noemail.
+ * This file is part of blomstra/no-email-notifications.
  *
  * Copyright (c) 2021 Blomstra Ltd.
  *
