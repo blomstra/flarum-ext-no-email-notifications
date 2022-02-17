@@ -12,12 +12,13 @@
     "support": {
         "issues": "https://github.com/blomstra/flarum-ext-no-email-notifications/issues",
         "source": "https://github.com/blomstra/flarum-ext-no-email-notifications",
-        "forum": "https://discuss.flarum.org/d/"},
+        "forum": "https://discuss.flarum.org/d/"
+    },
     "homepage": "https://blomstra.net",
     "authors": [
         {
-            "name": "IanM",
-            "email": "ian@blomstra.net",
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
             "role": "Developer"
         }
     ],
