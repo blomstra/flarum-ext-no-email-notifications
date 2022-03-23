@@ -24,4 +24,3 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/blomstra/noemail)
 - [GitHub](https://github.com/blomstra/flarum-ext-no-email-notifications)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
