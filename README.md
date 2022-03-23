@@ -1,6 +1,6 @@
 # No Email
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/blomstra/noemail.svg)](https://packagist.org/packages/blomstra/noemail) [![Total Downloads](https://img.shields.io/packagist/dt/blomstra/noemail.svg)](https://packagist.org/packages/blomstra/noemail)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/blomstra/no-email-notifications.svg)](https://packagist.org/packages/blomstra/no-email-notifications) [![Total Downloads](https://img.shields.io/packagist/dt/blomstra/no-email-notifications.svg)](https://packagist.org/packages/blomstra/no-email-notifications)
 
 A [Flarum](http://flarum.org) extension. Remove the email notification driver from Flarum.
 
