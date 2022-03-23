@@ -9,18 +9,18 @@ A [Flarum](http://flarum.org) extension. Remove the email notification driver fr
 Install with composer:
 
 ```sh
-composer require blomstra/noemail:"*"
+composer require blomstra/no-email-notifications:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update blomstra/noemail:"*"
+composer update blomstra/no-email-notifications:"*"
 php flarum migrate
 php flarum cache:clear
 ```
 
 ## Links
 
-- [Packagist](https://packagist.org/packages/blomstra/noemail)
+- [Packagist](https://packagist.org/packages/blomstra/no-email-notifications)
 - [GitHub](https://github.com/blomstra/flarum-ext-no-email-notifications)
